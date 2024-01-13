@@ -57,4 +57,4 @@ You do not have to write new code or documentation to contribute. Simply suggest
 
 ## Attribution
 
-This guide is modified from the [CubIXSS Contributor Guide](https://github.com/punch-mission/punch-mission/blob/main/contributing.md). 
+This guide is modified from the [PUNCH Contributor Guide](https://github.com/punch-mission/punch-mission/blob/main/contributing.md). 
