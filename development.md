@@ -5,7 +5,8 @@ These can be found in various documents; a good starting point is [the SunPy Dev
 
 ## General tips
 
-- Follow [PEP8](https://peps.python.org/pep-0008/) when appropriate and always use a linter for style
+- Follow [PEP8](https://peps.python.org/pep-0008/) when appropriate and always use a linter for style.
+- There are many options for linters, but we recommend [ruff](https://github.com/astral-sh/ruff). This should be installed as part of a pre-commit step. Your package maintainer should set pre-commit up. 
 - Write tests first. Then, write code to pass the tests. Finally, refactor code for clarity and style.
 - Documentation is critical. Do not put it off. Code without documentation is unsusable by the coommunity and by future you when you forget how it works. 
 - Class names should be nouns
